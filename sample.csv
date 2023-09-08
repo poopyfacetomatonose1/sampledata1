@@ -1,0 +1,21 @@
+Utterances,pos_neg,pos_neg_neutral 
+What gym do you go to?,positive,neutral 
+Did you take pre-workout?,negative, negative
+Did you do legs today?,negative,negative
+Did you do arms today?,positive,positive
+Did you do back today?,positive,positive
+Did you do chest today?,positive,positive
+Do you have a gym partner?,negative,negative
+Do you enjoy working out?,positive,negative 
+What is your favorite weight lift?,positive,neutral 
+Is your gym open 24 hours?,positive,positive 
+Is your gym open on holidays?,negative,negative 
+Do you do cardio?,positive,positive 
+Do you enjoy cardio?,negative,negative 
+What is your favorite form of cardio?,negative,neutral 
+Are you interested in competing?,negative,negative 
+Why did you start going to the gym?,positive,neutral 
+Do you use the gym amenities?,negative,negative 
+Are you bulking or cutting?,positive,neutral 
+What brand is your gym shoes?,negative,neutral 
+What is your pre gym meal?,negative,neutral 
